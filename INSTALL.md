@@ -51,8 +51,8 @@ python setup.py install --cuda_ext --cpp_ext
 
 # install PyTorch Detection
 cd $INSTALL_DIR
-git clone https://github.com/dongxingning/SHA-GCL-for-SGG.git
-cd SHA-GCL-for-SGG
+git clone https://github.com/zhanghaocodes/MBC-ATA.git
+cd MBC-ATA
 
 # the following will install the lib with
 # symbolic links, so that you can modify
