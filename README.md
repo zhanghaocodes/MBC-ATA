@@ -4,7 +4,7 @@ This repository contains the code for our paper MBC-ATA: Maximum Binary Classifi
 
 ## Installation
 
-Check [INSTALL.md](https://github.com/zhanghaocodes/INSTALL/INSTALL.md) for installation instructions, the recommended configuration is cuda-10.1 & pytorch-1.6.
+Check [INSTALL.md](https://github.com/zhanghaocodes/MBC-ATA/blob/master/INSTALL.md) for installation instructions, the recommended configuration is cuda-10.1 & pytorch-1.6.
 
 ## Dataset
 
