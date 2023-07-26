@@ -90,7 +90,7 @@ GLOBAL_SETTING.BASIC_ENCODER 'Self-Attention'
 GLOBAL_SETTING.BASIC_ENCODER 'Motifs'
 ```
 
-## Example of the Training Command
+## Example of the training command
 
 ```
 python tools/relation_train_net.py
